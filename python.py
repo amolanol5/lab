@@ -1,1 +1,3 @@
-print("hola mundo")
+var=andres
+print("hola mundo", var)
+
